@@ -17,6 +17,7 @@ indicating how many times each user played each artist.
 
 
 Files
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 user_artist_data.txt
     3 columns: userid artistid playcount
 
